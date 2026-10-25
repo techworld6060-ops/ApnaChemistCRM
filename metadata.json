@@ -1,0 +1,6 @@
+{
+  "name": "ApnaChemist CRM – Zero-App Refill & Care System",
+  "description": "Smart pharmacy SaaS CRM connecting neighborhood chemists with chronic-care patients for automated, consent-based WhatsApp refill reminders and zero-app one-tap reorders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
